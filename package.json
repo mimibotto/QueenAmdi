@@ -8,7 +8,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/BlackAmda/QueenAmdi.git"
+      "url": "git+https://github.com/mimibotto/QueenAmdi.git"
     },
     "keywords": [
       "whatsapp"
@@ -17,7 +17,7 @@
     "developer": "AN Tech",
     "license": "GPL-3.0-or-later",
     "bugs": {
-      "url": "https://github.com/BlackAmda/QueenAmdi/issues"
+      "url": "https://github.com/mimibotto/QueenAmdi/issues"
     },
     "homepage": "https://github.com/BlackAmda/QueenAmdi#readme",
     "dependencies": {
