@@ -106,7 +106,7 @@ QR Code generator and full instructions available there.
 											<tr>
 												<td><a href="httsp://github.com/BlackAmda/"><img src="https://i.ibb.co/r7vZVqw/1-Amda.jpg" width="200" height="200" alt="Black Amda"></a></td>
 												<td><a href="https://www.instagram.com/sinhalaya_official_/"><img src="https://i.ibb.co/tsFBnbx/2-Sasmitha.jpg" width="200" height="200" alt="sᴀsᴍɪᴛʜᴀ"></a></td>
-												<td><a href="https://www.instagram.com/saji_x.x_4/"><img src="https://i.ibb.co/6FZsnvQ/3-Sajiya.jpg" width="200" height="200" alt="ʟɪʟ ʟᴜᴢɪ"></a></td>
+												<td><a href="https://www.instagram.com/the real kyle sa/"><img src="https://i.ibb.co/6FZsnvQ/3-Sajiya.jpg" width="200" height="200" alt="ʟɪʟ ʟᴜᴢɪ"></a></td>
 											</tr>
 										</tbody>
 									</table>
